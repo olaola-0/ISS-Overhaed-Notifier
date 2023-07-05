@@ -3,10 +3,10 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_LAT = 65.584816  # Your latitude
-MY_LONG = 22.156704  # Your longitude
-MY_EMAIL = "isholamyson@gmail.com"
-MY_PASSWORD = "bgcfojhsoodvmzoi"
+MY_LAT = 12.345678  # Your latitude could have a negative(-) sign
+MY_LONG = 98.765432  # Your longitude could have a negative (-)sign
+MY_EMAIL = "Your email"
+MY_PASSWORD = "Your generated password"
 
 
 # If the ISS is close to my current position
